@@ -1,0 +1,66 @@
+{
+    "date": "20210927",
+    "pings": [
+        {
+            "output": "PING google.com(bud02s28-in-x0e.1e100.net (2a00:1450:400d:805::200e)) 56 data bytes\n\n--- google.com ping statistics ---\n10 packets transmitted, 0 received, 100% packet loss, time 11253ms\n\n",
+            "server": "google.com"
+        },
+        {
+            "output": "PING youtube.com(bud02s27-in-x0e.1e100.net (2a00:1450:400d:804::200e)) 56 data bytes\n\n--- youtube.com ping statistics ---\n10 packets transmitted, 0 received, 100% packet loss, time 11696ms\n\n",
+            "server": "youtube.com"
+        },
+        {
+            "output": "PING facebook.com(edge-star-mini6-shv-01-vie1.facebook.com (2a03:2880:f107:83:face:b00c:0:25de)) 56 data bytes\n\n--- facebook.com ping statistics ---\n10 packets transmitted, 0 received, 100% packet loss, time 11819ms\n\n",
+            "server": "facebook.com"
+        },
+        {
+            "output": "PING 360.cn (36.99.170.84) 56(84) bytes of data.\n64 bytes from 36.99.170.84: icmp_seq=1 ttl=41 time=236 ms\n64 bytes from 36.99.170.84: icmp_seq=2 ttl=41 time=236 ms\n64 bytes from 36.99.170.84: icmp_seq=3 ttl=41 time=236 ms\n64 bytes from 36.99.170.84: icmp_seq=4 ttl=41 time=237 ms\n64 bytes from 36.99.170.84: icmp_seq=5 ttl=41 time=236 ms\n64 bytes from 36.99.170.84: icmp_seq=6 ttl=41 time=236 ms\n64 bytes from 36.99.170.84: icmp_seq=7 ttl=41 time=236 ms\n64 bytes from 36.99.170.84: icmp_seq=8 ttl=41 time=236 ms\n64 bytes from 36.99.170.84: icmp_seq=9 ttl=41 time=236 ms\n64 bytes from 36.99.170.84: icmp_seq=10 ttl=41 time=236 ms\n\n--- 360.cn ping statistics ---\n10 packets transmitted, 10 received, 0% packet loss, time 20010ms\nrtt min/avg/max/mdev = 235.743/236.126/236.562/0.272 ms\n",
+            "server": "360.cn"
+        },
+        {
+            "output": "PING jd.com (118.193.98.63) 56(84) bytes of data.\n64 bytes from 118.193.98.63 (118.193.98.63): icmp_seq=1 ttl=34 time=219 ms\n64 bytes from 118.193.98.63 (118.193.98.63): icmp_seq=2 ttl=34 time=218 ms\n64 bytes from 118.193.98.63 (118.193.98.63): icmp_seq=3 ttl=34 time=219 ms\n64 bytes from 118.193.98.63 (118.193.98.63): icmp_seq=4 ttl=34 time=218 ms\n64 bytes from 118.193.98.63 (118.193.98.63): icmp_seq=5 ttl=34 time=220 ms\n64 bytes from 118.193.98.63 (118.193.98.63): icmp_seq=6 ttl=34 time=218 ms\n64 bytes from 118.193.98.63 (118.193.98.63): icmp_seq=7 ttl=34 time=218 ms\n64 bytes from 118.193.98.63 (118.193.98.63): icmp_seq=8 ttl=34 time=218 ms\n64 bytes from 118.193.98.63 (118.193.98.63): icmp_seq=9 ttl=34 time=218 ms\n64 bytes from 118.193.98.63 (118.193.98.63): icmp_seq=10 ttl=34 time=218 ms\n\n--- jd.com ping statistics ---\n10 packets transmitted, 10 received, 0% packet loss, time 9007ms\nrtt min/avg/max/mdev = 217.505/218.249/219.590/0.581 ms\n",
+            "server": "jd.com"
+        },
+        {
+            "output": "PING ohlerbookkeeping.com (50.62.228.124) 56(84) bytes of data.\n64 bytes from ip-50-62-228-124.ip.secureserver.net (50.62.228.124): icmp_seq=1 ttl=43 time=169 ms\n64 bytes from ip-50-62-228-124.ip.secureserver.net (50.62.228.124): icmp_seq=2 ttl=43 time=169 ms\n64 bytes from ip-50-62-228-124.ip.secureserver.net (50.62.228.124): icmp_seq=3 ttl=43 time=169 ms\n64 bytes from ip-50-62-228-124.ip.secureserver.net (50.62.228.124): icmp_seq=4 ttl=43 time=168 ms\n64 bytes from ip-50-62-228-124.ip.secureserver.net (50.62.228.124): icmp_seq=5 ttl=43 time=168 ms\n64 bytes from ip-50-62-228-124.ip.secureserver.net (50.62.228.124): icmp_seq=6 ttl=43 time=169 ms\n64 bytes from ip-50-62-228-124.ip.secureserver.net (50.62.228.124): icmp_seq=7 ttl=43 time=169 ms\n64 bytes from ip-50-62-228-124.ip.secureserver.net (50.62.228.124): icmp_seq=8 ttl=43 time=168 ms\n64 bytes from ip-50-62-228-124.ip.secureserver.net (50.62.228.124): icmp_seq=9 ttl=43 time=168 ms\n64 bytes from ip-50-62-228-124.ip.secureserver.net (50.62.228.124): icmp_seq=10 ttl=43 time=168 ms\n\n--- ohlerbookkeeping.com ping statistics ---\n10 packets transmitted, 10 received, 0% packet loss, time 9008ms\nrtt min/avg/max/mdev = 168.244/168.492/168.740/0.165 ms\n",
+            "server": "ohlerbookkeeping.com"
+        },
+        {
+            "output": "PING padgettcs.com (50.62.174.75) 56(84) bytes of data.\n64 bytes from ip-50-62-174-75.ip.secureserver.net (50.62.174.75): icmp_seq=1 ttl=43 time=170 ms\n64 bytes from ip-50-62-174-75.ip.secureserver.net (50.62.174.75): icmp_seq=2 ttl=43 time=170 ms\n64 bytes from ip-50-62-174-75.ip.secureserver.net (50.62.174.75): icmp_seq=3 ttl=43 time=170 ms\n64 bytes from ip-50-62-174-75.ip.secureserver.net (50.62.174.75): icmp_seq=4 ttl=43 time=170 ms\n64 bytes from ip-50-62-174-75.ip.secureserver.net (50.62.174.75): icmp_seq=5 ttl=43 time=170 ms\n64 bytes from ip-50-62-174-75.ip.secureserver.net (50.62.174.75): icmp_seq=6 ttl=43 time=170 ms\n64 bytes from ip-50-62-174-75.ip.secureserver.net (50.62.174.75): icmp_seq=7 ttl=43 time=170 ms\n64 bytes from ip-50-62-174-75.ip.secureserver.net (50.62.174.75): icmp_seq=8 ttl=43 time=170 ms\n64 bytes from ip-50-62-174-75.ip.secureserver.net (50.62.174.75): icmp_seq=9 ttl=43 time=170 ms\n64 bytes from ip-50-62-174-75.ip.secureserver.net (50.62.174.75): icmp_seq=10 ttl=43 time=170 ms\n\n--- padgettcs.com ping statistics ---\n10 packets transmitted, 10 received, 0% packet loss, time 9009ms\nrtt min/avg/max/mdev = 169.561/169.841/170.342/0.238 ms\n",
+            "server": "padgettcs.com"
+        },
+        {
+            "output": "PING proxyplomberie.be(2606:4700:3037::ac43:d3cf (2606:4700:3037::ac43:d3cf)) 56 data bytes\n\n--- proxyplomberie.be ping statistics ---\n10 packets transmitted, 0 received, 100% packet loss, time 26949ms\n\n",
+            "server": "proxyplomberie.be"
+        },
+        {
+            "output": "PING puregiftcard.com (62.75.242.217) 56(84) bytes of data.\n64 bytes from euve273841.serverprofi24.com (62.75.242.217): icmp_seq=1 ttl=46 time=20.7 ms\n64 bytes from euve273841.serverprofi24.com (62.75.242.217): icmp_seq=2 ttl=46 time=20.0 ms\n64 bytes from euve273841.serverprofi24.com (62.75.242.217): icmp_seq=3 ttl=46 time=20.4 ms\n64 bytes from euve273841.serverprofi24.com (62.75.242.217): icmp_seq=4 ttl=46 time=20.2 ms\n64 bytes from euve273841.serverprofi24.com (62.75.242.217): icmp_seq=5 ttl=46 time=19.8 ms\n64 bytes from euve273841.serverprofi24.com (62.75.242.217): icmp_seq=6 ttl=46 time=19.9 ms\n64 bytes from euve273841.serverprofi24.com (62.75.242.217): icmp_seq=7 ttl=46 time=20.2 ms\n64 bytes from euve273841.serverprofi24.com (62.75.242.217): icmp_seq=8 ttl=46 time=20.2 ms\n64 bytes from euve273841.serverprofi24.com (62.75.242.217): icmp_seq=9 ttl=46 time=20.0 ms\n64 bytes from euve273841.serverprofi24.com (62.75.242.217): icmp_seq=10 ttl=46 time=19.9 ms\n\n--- puregiftcard.com ping statistics ---\n10 packets transmitted, 10 received, 0% packet loss, time 9010ms\nrtt min/avg/max/mdev = 19.762/20.127/20.685/0.257 ms\n",
+            "server": "puregiftcard.com"
+        },
+        {
+            "output": "PING thedeveloperguidebook.com (194.163.179.243) 56(84) bytes of data.\n64 bytes from vmi661104.contaboserver.net (194.163.179.243): icmp_seq=1 ttl=48 time=22.6 ms\n64 bytes from vmi661104.contaboserver.net (194.163.179.243): icmp_seq=2 ttl=48 time=22.7 ms\n64 bytes from vmi661104.contaboserver.net (194.163.179.243): icmp_seq=3 ttl=48 time=22.7 ms\n64 bytes from vmi661104.contaboserver.net (194.163.179.243): icmp_seq=4 ttl=48 time=23.0 ms\n64 bytes from vmi661104.contaboserver.net (194.163.179.243): icmp_seq=5 ttl=48 time=22.7 ms\n64 bytes from vmi661104.contaboserver.net (194.163.179.243): icmp_seq=6 ttl=48 time=22.6 ms\n64 bytes from vmi661104.contaboserver.net (194.163.179.243): icmp_seq=7 ttl=48 time=23.1 ms\n64 bytes from vmi661104.contaboserver.net (194.163.179.243): icmp_seq=8 ttl=48 time=22.8 ms\n64 bytes from vmi661104.contaboserver.net (194.163.179.243): icmp_seq=9 ttl=48 time=22.9 ms\n64 bytes from vmi661104.contaboserver.net (194.163.179.243): icmp_seq=10 ttl=48 time=22.6 ms\n\n--- thedeveloperguidebook.com ping statistics ---\n10 packets transmitted, 10 received, 0% packet loss, time 9008ms\nrtt min/avg/max/mdev = 22.606/22.759/23.054/0.163 ms\n",
+            "server": "thedeveloperguidebook.com"
+        },
+        {
+            "output": "PING thesecrettohomehealth.com (62.75.162.195) 56(84) bytes of data.\n64 bytes from euve273544.serverprofi24.com (62.75.162.195): icmp_seq=1 ttl=46 time=20.1 ms\n64 bytes from euve273544.serverprofi24.com (62.75.162.195): icmp_seq=2 ttl=46 time=20.4 ms\n64 bytes from euve273544.serverprofi24.com (62.75.162.195): icmp_seq=3 ttl=46 time=20.4 ms\n64 bytes from euve273544.serverprofi24.com (62.75.162.195): icmp_seq=4 ttl=46 time=20.0 ms\n64 bytes from euve273544.serverprofi24.com (62.75.162.195): icmp_seq=5 ttl=46 time=20.3 ms\n64 bytes from euve273544.serverprofi24.com (62.75.162.195): icmp_seq=6 ttl=46 time=20.2 ms\n64 bytes from euve273544.serverprofi24.com (62.75.162.195): icmp_seq=7 ttl=46 time=20.8 ms\n64 bytes from euve273544.serverprofi24.com (62.75.162.195): icmp_seq=8 ttl=46 time=20.0 ms\n64 bytes from euve273544.serverprofi24.com (62.75.162.195): icmp_seq=9 ttl=46 time=20.2 ms\n64 bytes from euve273544.serverprofi24.com (62.75.162.195): icmp_seq=10 ttl=46 time=20.4 ms\n\n--- thesecrettohomehealth.com ping statistics ---\n10 packets transmitted, 10 received, 0% packet loss, time 9009ms\nrtt min/avg/max/mdev = 19.997/20.280/20.812/0.225 ms\n",
+            "server": "thesecrettohomehealth.com"
+        },
+        {
+            "output": "PING tictacgamesnews.com (63.141.244.235) 56(84) bytes of data.\n\n--- tictacgamesnews.com ping statistics ---\n10 packets transmitted, 0 received, 100% packet loss, time 9005ms\n\n",
+            "server": "tictacgamesnews.com"
+        },
+        {
+            "output": "PING toptipsshop.com (13.251.165.115) 56(84) bytes of data.\n\n--- toptipsshop.com ping statistics ---\n10 packets transmitted, 0 received, 100% packet loss, time 9011ms\n\n",
+            "server": "toptipsshop.com"
+        },
+        {
+            "output": "PING tradingunited.trading (75.102.57.89) 56(84) bytes of data.\n64 bytes from sc-europe70.banahosting.com (75.102.57.89): icmp_seq=1 ttl=42 time=26.3 ms\n64 bytes from sc-europe70.banahosting.com (75.102.57.89): icmp_seq=2 ttl=42 time=26.1 ms\n64 bytes from sc-europe70.banahosting.com (75.102.57.89): icmp_seq=3 ttl=42 time=26.2 ms\n64 bytes from sc-europe70.banahosting.com (75.102.57.89): icmp_seq=4 ttl=42 time=26.3 ms\n64 bytes from sc-europe70.banahosting.com (75.102.57.89): icmp_seq=5 ttl=42 time=26.4 ms\n64 bytes from sc-europe70.banahosting.com (75.102.57.89): icmp_seq=6 ttl=42 time=26.2 ms\n64 bytes from sc-europe70.banahosting.com (75.102.57.89): icmp_seq=7 ttl=42 time=26.4 ms\n64 bytes from sc-europe70.banahosting.com (75.102.57.89): icmp_seq=8 ttl=42 time=26.3 ms\n64 bytes from sc-europe70.banahosting.com (75.102.57.89): icmp_seq=9 ttl=42 time=26.0 ms\n64 bytes from sc-europe70.banahosting.com (75.102.57.89): icmp_seq=10 ttl=42 time=26.1 ms\n\n--- tradingunited.trading ping statistics ---\n10 packets transmitted, 10 received, 0% packet loss, time 9006ms\nrtt min/avg/max/mdev = 26.039/26.227/26.434/0.124 ms\n",
+            "server": "tradingunited.trading"
+        },
+        {
+            "output": "PING yunella.com (185.4.230.138) 56(84) bytes of data.\n64 bytes from 185.4.230.138 (185.4.230.138): icmp_seq=1 ttl=46 time=59.2 ms\n64 bytes from 185.4.230.138 (185.4.230.138): icmp_seq=2 ttl=46 time=59.4 ms\n64 bytes from 185.4.230.138 (185.4.230.138): icmp_seq=3 ttl=46 time=59.4 ms\n64 bytes from 185.4.230.138 (185.4.230.138): icmp_seq=4 ttl=46 time=59.0 ms\n64 bytes from 185.4.230.138 (185.4.230.138): icmp_seq=5 ttl=46 time=59.4 ms\n64 bytes from 185.4.230.138 (185.4.230.138): icmp_seq=6 ttl=46 time=59.5 ms\n64 bytes from 185.4.230.138 (185.4.230.138): icmp_seq=7 ttl=46 time=59.3 ms\n64 bytes from 185.4.230.138 (185.4.230.138): icmp_seq=8 ttl=46 time=59.1 ms\n64 bytes from 185.4.230.138 (185.4.230.138): icmp_seq=9 ttl=46 time=59.3 ms\n64 bytes from 185.4.230.138 (185.4.230.138): icmp_seq=10 ttl=46 time=59.1 ms\n\n--- yunella.com ping statistics ---\n10 packets transmitted, 10 received, 0% packet loss, time 9008ms\nrtt min/avg/max/mdev = 59.002/59.277/59.523/0.150 ms\n",
+            "server": "yunella.com"
+        }
+    ],
+    "system": "Linux"
+}

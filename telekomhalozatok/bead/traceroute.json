@@ -1,0 +1,66 @@
+{
+    "date": "20210927",
+    "system": "Linux",
+    "traces": [
+        {
+            "output": "traceroute to google.com (172.217.20.14), 30 hops max, 60 byte packets\n 1  * * *\n 2  * * *\n 3  * * *\n 4  * * *\n 5  * * *\n 6  * * *\n 7  * * *\n 8  * * *\n 9  * * *\n10  * * *\n11  * * *\n12  * * *\n13  * * *\n14  * * *\n15  * * *\n16  * * *\n17  * * *\n18  * * *\n19  * * *\n20  * * *\n21  * * *\n22  * * *\n23  * * *\n24  * * *\n25  * * *\n26  * * *\n27  * * *\n28  * * *\n29  * * *\n30  * * *\n",
+            "server": "google.com"
+        },
+        {
+            "output": "traceroute to baidu.com (220.181.38.251), 30 hops max, 60 byte packets\n 1  * * *\n 2  * * *\n 3  * * *\n 4  * * *\n 5  * * *\n 6  * * *\n 7  * * *\n 8  * * *\n 9  * * *\n10  * * *\n11  * * *\n12  * * *\n13  * * *\n14  * * *\n15  * * *\n16  * * *\n17  * * *\n18  * * *\n19  * * *\n20  * * *\n21  * * *\n22  * * *\n23  * * *\n24  * * *\n25  * * *\n26  * * *\n27  * * *\n28  * * *\n29  * * *\n30  * * *\n",
+            "server": "baidu.com"
+        },
+        {
+            "output": "traceroute to sohu.com (211.159.191.77), 30 hops max, 60 byte packets\n 1  * * *\n 2  * * *\n 3  * * *\n 4  * * *\n 5  * * *\n 6  * * *\n 7  * * *\n 8  * * *\n 9  * * *\n10  * * *\n11  * * *\n12  * * *\n13  * * *\n14  * * *\n15  * * *\n16  * * *\n17  * * *\n18  * * *\n19  * * *\n20  * * *\n21  * * *\n22  * * *\n23  * * *\n24  * * *\n25  * * *\n26  * * *\n27  * * *\n28  * * *\n29  * * *\n30  * * *\n",
+            "server": "sohu.com"
+        },
+        {
+            "output": "traceroute to 360.cn (36.99.170.84), 30 hops max, 60 byte packets\n 1  * * *\n 2  * * *\n 3  * * *\n 4  * * *\n 5  * * *\n 6  * * *\n 7  * * *\n 8  * * *\n 9  * * *\n10  * * *\n11  * * *\n12  * * *\n13  * * *\n14  * * *\n15  * * *\n16  * * *\n17  * * *\n18  * * *\n19  * * *\n20  * * *\n21  * * *\n22  * * *\n23  * * *\n24  * * *\n25  * * *\n26  * * *\n27  * * *\n28  * * *\n29  * * *\n30  * * *\n",
+            "server": "360.cn"
+        },
+        {
+            "output": "traceroute to jd.com (111.13.149.108), 30 hops max, 60 byte packets\n 1  * * *\n 2  * * *\n 3  * * *\n 4  * * *\n 5  * * *\n 6  * * *\n 7  * * *\n 8  * * *\n 9  * * *\n10  * * *\n11  * * *\n12  * * *\n13  * * *\n14  * * *\n15  * * *\n16  * * *\n17  * * *\n18  * * *\n19  * * *\n20  * * *\n21  * * *\n22  * * *\n23  * * *\n24  * * *\n25  * * *\n26  * * *\n27  * * *\n28  * * *\n29  * * *\n30  * * *\n",
+            "server": "jd.com"
+        },
+        {
+            "output": "traceroute to ohlerbookkeeping.com (50.62.228.124), 30 hops max, 60 byte packets\n 1  * * *\n 2  * * *\n 3  * * *\n 4  * * *\n 5  * * *\n 6  * * *\n 7  * * *\n 8  * * *\n 9  * * *\n10  * * *\n11  * * *\n12  * * *\n13  * * *\n14  * * *\n15  * * *\n16  * * *\n17  * * *\n18  * * *\n19  * * *\n20  * * *\n21  * * *\n22  * * *\n23  * * *\n24  * * *\n25  * * *\n26  * * *\n27  * * *\n28  * * *\n29  * * *\n30  * * *\n",
+            "server": "ohlerbookkeeping.com"
+        },
+        {
+            "output": "traceroute to padgettcs.com (50.62.174.75), 30 hops max, 60 byte packets\n 1  * * *\n 2  * * *\n 3  * * *\n 4  * * *\n 5  * * *\n 6  * * *\n 7  * * *\n 8  * * *\n 9  * * *\n10  * * *\n11  * * *\n12  * * *\n13  * * *\n14  * * *\n15  * * *\n16  * * *\n17  * * *\n18  * * *\n19  * * *\n20  * * *\n21  * * *\n22  * * *\n23  * * *\n24  * * *\n25  * * *\n26  * * *\n27  * * *\n28  * * *\n29  * * *\n30  * * *\n",
+            "server": "padgettcs.com"
+        },
+        {
+            "output": "traceroute to proxyplomberie.be (104.21.59.26), 30 hops max, 60 byte packets\n 1  * * *\n 2  * * *\n 3  * * *\n 4  * * *\n 5  * * *\n 6  * * *\n 7  * * *\n 8  * * *\n 9  * * *\n10  * * *\n11  * * *\n12  * * *\n13  * * *\n14  * * *\n15  * * *\n16  * * *\n17  * * *\n18  * * *\n19  * * *\n20  * * *\n21  * * *\n22  * * *\n23  * * *\n24  * * *\n25  * * *\n26  * * *\n27  * * *\n28  * * *\n29  * * *\n30  * * *\n",
+            "server": "proxyplomberie.be"
+        },
+        {
+            "output": "traceroute to puregiftcard.com (62.75.242.217), 30 hops max, 60 byte packets\n 1  * * *\n 2  * * *\n 3  * * *\n 4  * * *\n 5  * * *\n 6  * * *\n 7  * * *\n 8  * * *\n 9  * * *\n10  * * *\n11  * * *\n12  * * *\n13  * * *\n14  * * *\n15  * * *\n16  * * *\n17  * * *\n18  * * *\n19  * * *\n20  * * *\n21  * * *\n22  * * *\n23  * * *\n24  * * *\n25  * * *\n26  * * *\n27  * * *\n28  * * *\n29  * * *\n30  * * *\n",
+            "server": "puregiftcard.com"
+        },
+        {
+            "output": "traceroute to thedeveloperguidebook.com (194.163.179.243), 30 hops max, 60 byte packets\n 1  * * *\n 2  * * *\n 3  * * *\n 4  * * *\n 5  * * *\n 6  * * *\n 7  * * *\n 8  * * *\n 9  * * *\n10  * * *\n11  * * *\n12  * * *\n13  * * *\n14  * * *\n15  * * *\n16  * * *\n17  * * *\n18  * * *\n19  * * *\n20  * * *\n21  * * *\n22  * * *\n23  * * *\n24  * * *\n25  * * *\n26  * * *\n27  * * *\n28  * * *\n29  * * *\n30  * * *\n",
+            "server": "thedeveloperguidebook.com"
+        },
+        {
+            "output": "traceroute to thesecrettohomehealth.com (62.75.162.195), 30 hops max, 60 byte packets\n 1  * * *\n 2  * * *\n 3  * * *\n 4  * * *\n 5  * * *\n 6  * * *\n 7  * * *\n 8  * * *\n 9  * * *\n10  * * *\n11  * * *\n12  * * *\n13  * * *\n14  * * *\n15  * * *\n16  * * *\n17  * * *\n18  * * *\n19  * * *\n20  * * *\n21  * * *\n22  * * *\n23  * * *\n24  * * *\n25  * * *\n26  * * *\n27  * * *\n28  * * *\n29  * * *\n30  * * *\n",
+            "server": "thesecrettohomehealth.com"
+        },
+        {
+            "output": "traceroute to tictacgamesnews.com (63.141.244.235), 30 hops max, 60 byte packets\n 1  * * *\n 2  * * *\n 3  * * *\n 4  * * *\n 5  * * *\n 6  * * *\n 7  * * *\n 8  * * *\n 9  * * *\n10  * * *\n11  * * *\n12  * * *\n13  * * *\n14  * * *\n15  * * *\n16  * * *\n17  * * *\n18  * * *\n19  * * *\n20  * * *\n21  * * *\n22  * * *\n23  * * *\n24  * * *\n25  * * *\n26  * * *\n27  * * *\n28  * * *\n29  * * *\n30  * * *\n",
+            "server": "tictacgamesnews.com"
+        },
+        {
+            "output": "traceroute to toptipsshop.com (13.251.165.115), 30 hops max, 60 byte packets\n 1  * * *\n 2  * * *\n 3  * * *\n 4  * * *\n 5  * * *\n 6  * * *\n 7  * * *\n 8  * * *\n 9  * * *\n10  * * *\n11  * * *\n12  * * *\n13  * * *\n14  * * *\n15  * * *\n16  * * *\n17  * * *\n18  * * *\n19  * * *\n20  * * *\n21  * * *\n22  * * *\n23  * * *\n24  * * *\n25  * * *\n26  * * *\n27  * * *\n28  * * *\n29  * * *\n30  * * *\n",
+            "server": "toptipsshop.com"
+        },
+        {
+            "output": "traceroute to tradingunited.trading (75.102.57.89), 30 hops max, 60 byte packets\n 1  * * *\n 2  * * *\n 3  * * *\n 4  * * *\n 5  * * *\n 6  * * *\n 7  * * *\n 8  * * *\n 9  * * *\n10  * * *\n11  * * *\n12  * * *\n13  * * *\n14  * * *\n15  * * *\n16  * * *\n17  * * *\n18  * * *\n19  * * *\n20  * * *\n21  * * *\n22  * * *\n23  * * *\n24  * * *\n25  * * *\n26  * * *\n27  * * *\n28  * * *\n29  * * *\n30  * * *\n",
+            "server": "tradingunited.trading"
+        },
+        {
+            "output": "traceroute to yunella.com (185.4.230.138), 30 hops max, 60 byte packets\n 1  * * *\n 2  * * *\n 3  * * *\n 4  * * *\n 5  * * *\n 6  * * *\n 7  * * *\n 8  * * *\n 9  * * *\n10  * * *\n11  * * *\n12  * * *\n13  * * *\n14  * * *\n15  * * *\n16  * * *\n17  * * *\n18  * * *\n19  * * *\n20  * * *\n21  * * *\n22  * * *\n23  * * *\n24  * * *\n25  * * *\n26  * * *\n27  * * *\n28  * * *\n29  * * *\n30  * * *\n",
+            "server": "yunella.com"
+        }
+    ]
+}
